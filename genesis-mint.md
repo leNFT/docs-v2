@@ -23,6 +23,6 @@ The locktime is in seconds and 'minted' is the number of Genesis NFTs already mi
 
 ## What can I do with my LE tokens?
 
-* Lock them for up to 4 years to get a share of the protocol's earnings and LE rebates
-* Direct the LE inflation to different gauges by voting
-* Trade them on the balancer pool
+* Lock them for up to 4 years to get a share of the protocol's earnings and LE rebates.
+* Direct the LE inflation to different gauges by voting.
+* Trade them on the [LE/ETH trading pool](https://app.balancer.fi/#/ethereum/pool/0x8e6c196e201942246cef85718c5d3a5622518053000200000000000000000582).
